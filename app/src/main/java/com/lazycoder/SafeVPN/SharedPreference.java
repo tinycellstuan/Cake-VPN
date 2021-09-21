@@ -1,15 +1,15 @@
-package com.lazycoder.cakevpn;
+package com.lazycoder.SafeVPN;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 
 import com.lazycoder.cakevpn.model.Server;
 
-import static com.lazycoder.cakevpn.Utils.getImgURL;
+import static com.lazycoder.SafeVPN.Utils.getImgURL;
 
 public class SharedPreference {
 
-    private static final String APP_PREFS_NAME = "CakeVPNPreference";
+    private static final String APP_PREFS_NAME = "SaveVPNPNPreference";
 
     private SharedPreferences mPreference;
     private SharedPreferences.Editor mPrefEditor;
