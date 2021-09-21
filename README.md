@@ -30,6 +30,6 @@ I am not sure how long it will work with the free ovpn file. It's better to upda
 
 This project and the uses VPN library "ICS OpenVPN" both are under GPLv2 License.
 
-> Make sure you understand the licenses of the code. OpenVPN for Android is GPL licensed.
+> Make sure you understand the licenses of the code. OpenVPN for Android is MIT licensed.
 
 - see the [License File](LICENSE) for more details.
