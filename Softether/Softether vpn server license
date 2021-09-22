@@ -17,7 +17,8 @@
 # - Taiwan = TW             #
 # - Russia = RN             #
 # - Japan = JP              #
-# - France = Fr            #
+# - France = FR             #
+# - Germany = DE            #             
 # - - - - - - - - - - - - - #
 
 #--- configuration variables ---#
@@ -31,10 +32,10 @@ mkdir 'cache/'
 #--- VPN server connection function ---#
 servers() {
   clear
-  echo -e "\n--- Welcome to KhunVPN ! ---\n"
+  echo -e "\n--- Welcome to SafeVPN ! ---\n"
   if (($argv==0))
   then
-    echo "usage: sudo ./KhunVPN.sh [country name | country code]"
+    echo "usage: sudo ./SafeVPN.sh [country name | country code]"
     exit
   fi
   {
@@ -104,7 +105,7 @@ servers() {
     curl 'ifconfig.me'
     echo -e "\nVPN terminated"
   } || {
-    notify-send -i dialog-error 'The KhunVPN client encountered an error while connecting, please try again...'
+    notify-send -i dialog-error 'The SafeVPN client encountered an error while connecting, please try again...'
     exit
   }
 }
