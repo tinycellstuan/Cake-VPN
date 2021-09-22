@@ -25,7 +25,7 @@ Servers :
 
 def servers():
     if len(sys.argv) != 2:
-        print("--- Welcome to KhunVPN ! ---\n")
+        print("--- Welcome to SafeVPN ! ---\n")
         print('usage: sudo python3 ' + sys.argv[0] + ' [country name | country code]')
         exit(1)
     country = sys.argv[1]
