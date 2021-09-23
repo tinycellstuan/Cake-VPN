@@ -1,2 +1,2 @@
 include ':app', ':vpnLib'
-rootProject.name='Cake VPN'
+rootProject.name='Safe-Vpn'
