@@ -21,6 +21,7 @@ Servers :
 - France = FR
 - Germany = DE
 - Netherlands - NL
+- Ukraine - UA
 """
 
 def servers():
