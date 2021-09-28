@@ -20,6 +20,7 @@ Servers :
 - Japan = JP
 - France = FR
 - Germany = DE
+- Netherlands - NL
 """
 
 def servers():
