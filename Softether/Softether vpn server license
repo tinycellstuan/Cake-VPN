@@ -2,12 +2,12 @@
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Based on the OpenVPN client and SoftEther servers #
-# __author__ = "Tuan Tran"                      #
+# __author__ = "Tuan Tran"                          #
 # __copyright__ = "Copyright 2021, SafeVPN"         #
 # __license__ = "MIT License"                       #
 # __version__ = "1.0"                               #
 # __maintainer__ = "@tinycellstuan"                 #
-# __email__ = "tuantran109896@gmail.com" #
+# __email__ = "tuantran109896@gmail.com"            #
 # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 # - - - - - - - - - - - - - #
