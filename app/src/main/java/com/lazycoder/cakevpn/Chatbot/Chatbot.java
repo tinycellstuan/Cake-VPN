@@ -1,6 +1,6 @@
 
 
-package com.neeldeshmukh.vpn.Chatbot;
+package com.cakevpn.vpn.Chatbot;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;
