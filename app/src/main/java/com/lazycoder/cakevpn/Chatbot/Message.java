@@ -1,4 +1,4 @@
-package com.neeldeshmukh.vpn.Chatbot;
+package com.cakevpn.vpn.Chatbot;
 public class Message {
 
     private String message;
