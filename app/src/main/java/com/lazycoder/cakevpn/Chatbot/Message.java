@@ -1,4 +1,4 @@
-package com.cakevpn.vpn.Chatbot;
+package com.lazycoder.cakevpn.Chatbot;
 public class Message {
 
     private String message;
