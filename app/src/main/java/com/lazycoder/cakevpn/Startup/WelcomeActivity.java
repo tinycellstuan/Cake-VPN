@@ -1,4 +1,4 @@
-package com.cakevpn.vpn.Startup;
+package com.lazycoder.cakevpn.Startup;
 
 import androidx.appcompat.app.AppCompatActivity;
 
