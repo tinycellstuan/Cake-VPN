@@ -17,7 +17,7 @@ import com.google.android.gms.tasks.Task;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
-import com.neeldeshmukh.vpn.R;
+import com.lazycoder.cakevpn.R;
 
 public class EditProfile extends AppCompatActivity {
     /*
