@@ -1,4 +1,4 @@
-package com.neeldeshmukh.vpn.Startup;
+package com.cakevpn.vpn.Startup;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,9 +7,9 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
-import com.neeldeshmukh.vpn.Auth.Login;
+import com.cake.vpn.Auth.Login;
 
-import com.neeldeshmukh.vpn.R;
+import com.cakevpn.vpn.R;
 
 
 
