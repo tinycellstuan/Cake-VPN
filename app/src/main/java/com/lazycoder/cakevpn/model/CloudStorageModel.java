@@ -1,4 +1,4 @@
-package com.lazycoder.cakevpn.Model;
+package com.lazycoder.cakevpn.model;
 
 public class CloudStorageModel {
     private String file_name;
