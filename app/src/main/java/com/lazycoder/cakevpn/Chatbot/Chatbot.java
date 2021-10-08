@@ -1,5 +1,5 @@
 
-package com.cakevpn.vpn.Chatbot;
+package com.lazycoder.cakevpn.Chatbot;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;
