@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833923954939",
+    "project_id": "safe-vpn-13af1",
+    "storage_bucket": "safe-vpn-13af1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833923954939:android:9305de2b75b61c6a05985e",
+        "android_client_info": {
+          "package_name": "com.lazycoder.safevpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833923954939-4dklk2ggheo32e527rdc2fgflbu1k410.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2NRw_68ozX1FBZEEXps4wgXJRiJke0Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833923954939-4dklk2ggheo32e527rdc2fgflbu1k410.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
