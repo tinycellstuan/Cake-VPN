@@ -133,7 +133,7 @@ public class MainActivity extends AppCompatActivity implements NavItemClickListe
                 "vpn"
         ));
         servers.add(new Server("Vietnam",
-                Utils.getImgURL(R.drawable.vietnam_flag),
+                Utils.getImgURL(R.drawable.vietnam.flag),
                 "vietnam.ovpn",
                 "vpn",
                 "vpn"
