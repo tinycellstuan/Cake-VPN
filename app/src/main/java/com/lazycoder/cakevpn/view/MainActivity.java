@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements NavItemClickListe
     private DrawerLayout drawer;
     private ChangeServer changeServer;
 
-    public static final String TAG = "CakeVPN";
+    public static final String TAG = "SafeVPN";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -132,8 +132,23 @@ public class MainActivity extends AppCompatActivity implements NavItemClickListe
                 "vpn",
                 "vpn"
         ));
-
-        return servers;
+        servers.add(new Server("Vietnam",
+                Utils.getImgURL(R.drawable.vietnam_flag),
+                "vietnam.ovpn",
+                "vpn",
+                "vpn"
+        ));                       
+        servers.add(new Server("Germany",
+                Utils.getImgURL(R.drawable.germany.flag),
+                "german.ovpn",
+                "vpnbook",
+                "e7x76mc"    
+       ));
+       servers.add(new Server("France",
+               Utils.getImgURL(R.drawable.france.flag),
+               "france.ovpn",
+                "vpnbook",
+                "e7x76mc"               
     }
 
     /**
