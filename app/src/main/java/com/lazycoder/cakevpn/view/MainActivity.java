@@ -172,7 +172,13 @@ public class MainActivity extends AppCompatActivity implements NavItemClickListe
                Utils.getImgURL(R.drawable.Netherlands.flag),
                "Switzerland.ovpn"
                "freeopenvpn"
-               "182869688"               
+               "182869688"
+       ));
+       servers.add(new Server("Singapore",
+               Utils.getImgURL(R.drawable.Singapore.flag),
+               "Singapore"
+               "vpn"
+               "vpn"
     }
 
     /**
