@@ -31,3 +31,4 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 - [x] More servers with fast speed
 - [] L2PT/Ipsec(idk)
 - [] Wireguard(Maybe)
+- [x] Killswitch
