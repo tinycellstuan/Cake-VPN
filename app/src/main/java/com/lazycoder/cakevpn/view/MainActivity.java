@@ -17,6 +17,7 @@ import android.widget.ImageButton;
 
 import com.lazycoder.cakevpn.R;
 import com.lazycoder.cakevpn.adapter.ServerListRVAdapter;
+import com.lazycoder.cakevpn.databinding.ActivityMainBinding;
 import com.lazycoder.cakevpn.interfaces.ChangeServer;
 import com.lazycoder.cakevpn.interfaces.NavItemClickListener;
 import com.lazycoder.cakevpn.model.Server;
@@ -32,8 +33,9 @@ public class MainActivity extends AppCompatActivity implements NavItemClickListe
     private RecyclerView serverListRv;
     private ArrayList<Server> serverLists;
     private ServerListRVAdapter serverListRVAdapter;
-    private DrawerLayout drawer;
+    //private DrawerLayout drawer;
     private ChangeServer changeServer;
+    private ActivityMainBinding binding;
 
     public static final String TAG = "SafeVPN";
     @Override
