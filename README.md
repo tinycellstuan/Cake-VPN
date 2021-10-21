@@ -24,10 +24,5 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 - [x] OpenVPN Protocol
 - [x] Softther fast servers
 - [x] AES-256 security
-- [x] ChatBot
-- [x] Contact and added encryption security for conversation
-- [ ] Speedtest built(soon)
-- [x] Sign up and login page
-- [x] More servers with fast speed
 - [x] Killswitch
-- [x] IKEv2/IPsec(Added but not completed)
+- [x] IKEv2/IPsec
