@@ -32,4 +32,4 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 - [] L2PT/Ipsec(idk)
 - [] Wireguard(Maybe)
 - [x] Killswitch
-- [x] IKEv2/IPsec(Added but nit completed)
+- [x] IKEv2/IPsec(Added but not completed)
