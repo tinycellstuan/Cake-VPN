@@ -15,7 +15,7 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 1. Match the document style as closely as possible.
 1. Please keep PR titles easy to read and descriptive of changes, this will make them easier to merge :)
 1. Pull requests must be made against master branch for this particular repository.
-1. Check for existing [issues](https://github.com/tinycells/Safe-VPN/issues) first, before filing an issue.
+1. Check for existing [issues](https://github.com/tinycellstuan/Safe-VPN/issues) first, before filing an issue.
 1. Make sure you follow the set standard as all other projects in this repo
 1. Have fun!
 
