@@ -26,10 +26,8 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 - [x] AES-256 security
 - [x] ChatBot
 - [x] Contact and added encryption security for conversation
-- [] Speedtest built(soon)
+- [ ] Speedtest built(soon)
 - [x] Sign up and login page
 - [x] More servers with fast speed
-- [] L2PT/Ipsec(idk)
-- [] Wireguard(Maybe)
 - [x] Killswitch
 - [x] IKEv2/IPsec(Added but not completed)
