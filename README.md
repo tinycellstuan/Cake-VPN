@@ -2,6 +2,9 @@ Safe-Vpn is a vpn app that hides your online activity and protects your data.
 
 Simple Vpn app written in javascript and aidl.
 
+[![Build Status](https://travis-ci.org/tinycellstuan/Safe-VPN)](https://travis-ci.org/SafeVPN/Safe-VPN) [![API](https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=21) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/tinycellstuan/SafeVPN) 
+[![Image of insights](https://github.com/gayaninvoice/insights/blob/master/svg/207237845/badge.svg)](https://github.com/gayanvoice/insights/blob/master/readme/207237845/week.md)
+
 
 ## Using GitHub Issues
 1. Feel free to use GitHub issues for questions, bug reports, and feature requests
