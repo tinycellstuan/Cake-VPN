@@ -22,7 +22,7 @@ I welcome and encourage all pull requests. It usually will take me within 24-48 
 ### Features :
 
 - [x] OpenVPN Protocol
-- [x] Softther fast servers
 - [x] AES-256 security
 - [x] Killswitch
 - [x] IKEv2/IPsec
+- [x] Dns Leak protection
